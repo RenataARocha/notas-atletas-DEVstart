@@ -34,7 +34,7 @@ Para cada atleta, a aplicação:
 
 ```
 notas-atletas
-├── notas-atletas.js
+├── script.js
 └── README.md
 ```
 
@@ -53,19 +53,19 @@ notas-atletas
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/notas-atletas.git
+git clone https://github.com/RenataARocha/notas-atletas-DEVstart
 ```
 
 2. Acesse a pasta do projeto:
 
 ```bash
-cd notas-atletas
+cd notas-atletas-DEVstart
 ```
 
 3. Execute o arquivo JavaScript em um ambiente que suporte JS (como o navegador ou o Node.js):
 
 ```bash
-node notas-atletas.js
+node script.js
 ```
 
 4. Verifique o resultado no console.
@@ -100,4 +100,4 @@ Desenvolvedora Front-End em transição de carreira
 
 ## 🔗 Link do repositório
 
-[https://github.com/seu-usuario/notas-atletas](https://github.com/seu-usuario/notas-atletas)
+[https://github.com/RenataARocha/notas-atletas-DEVstart](https://github.com/RenataARocha/notas-atletas-DEVstart)
